@@ -10,8 +10,8 @@
 - *Capacidad de trabajo en equipo y resolución de problemas*
 - *Capacidad de aprendizaje y alto sentido de responsabilidad*
 
-<br/><br/>
-
+<br/>
+---
 **Github Stats:**
 
 <p align="center">
