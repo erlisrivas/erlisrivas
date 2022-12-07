@@ -4,15 +4,14 @@
 
 <br/><br/>
 
-[![erlisrivas GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+**Github Stats:**
 
-<br/>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=erlisrivas&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlisrivas&count_private=true&theme=dracula">
 
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlisrivas&show_icons=true)
+</p>
 
 <br><br>
 
