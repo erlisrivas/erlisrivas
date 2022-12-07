@@ -56,7 +56,7 @@
 </p>
 
 
-⭐️ De [@erlisrivas](https://github.com/erlisrivas
+⭐️ De [@erlisrivas](https://github.com/erlisrivas)
 
 
 
