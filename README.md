@@ -45,6 +45,19 @@
 
 <br><br>
 
+---
+
+## 🤝🏻 Conéctate Conmigo
+
+<p align="centro">
+
+<a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn- @erlisrivas?style=flat&logo=linkedin"></a>
+<a href="mailto:erlisrivas@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/Email-erlisrivas@gmail.com-blue?style=flat&logo= gmail"></a>
+</p>
+
+
+⭐️ De [@erlisrivas](https://github.com/erlisrivas
+
 
 
 
