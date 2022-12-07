@@ -1,6 +1,14 @@
 ### Hola 👋
 <h2> Mi Nombre es Erlis Rivas</h2>
-<h3> 👨🏻•💻 About Me </h3>
+¡Realice un bootcamp de desarrollo Front-end en Desafio Latam con miras a oportunidades de crecimiento profesional y tengo mucho interés en seguir aprendiendo nuevas tecnologías!
+
+<h3> 👨🏻•💻 Sobre mi </h3>
+
+- *Desarrollador web front-end React*
+- *Ingeniero de pretróleo con conocimentos en el área de yacimientos de hidrocarburos*
+- *Profesional flexible con capacidad de adaptación a diferentes entornos laborales*
+- *Capacidad de trabajo en equipo y resolución de problemas*
+- *Capacidad de aprendizaje y alto sentido de responsabilidad*
 
 <br/><br/>
 
