@@ -1,8 +1,8 @@
 ### Hola 👋
 <h2> Mi Nombre es Erlis Rivas</h2>
-¡Realice un bootcamp de desarrollo Front-end en Desafio Latam con miras a oportunidades de crecimiento profesional y tengo mucho interés en seguir aprendiendo nuevas tecnologías!
+¡Realicé un bootcamp de desarrollo Front-end en la academia Desafío Latam con miras a oportunidades de crecimiento profesional y tengo mucho interés en seguir aprendiendo nuevas tecnologías!
 
-<h3> 👨🏻•💻 Sobre mi </h3>
+<h3> 👩‍ 💻 Sobre mi </h3>
 
 - *Desarrollador web front-end React*
 - *Ingeniero de pretróleo con conocimentos en el área de yacimientos de hidrocarburos*
@@ -13,7 +13,7 @@
 
 ---
 
-### :hammer_and_wrench: Idiomas y herramientas:
+### :hammer_and_wrench: languages and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height= "40"/> 
@@ -22,7 +22,7 @@
  <img src="https://www.freeiconspng.com/uploads/github-icon-1.png" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
-  ### 👩‍💻: Programas:
+  ### 👩‍💻: Softwares:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Código de Visual Studio" alt="Visual" width="40" height="40 "/> 
