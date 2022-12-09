@@ -53,7 +53,7 @@
 
 <p align="centro">
 
-<a href="https://www.linkedin.com/in/erlis-rivas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn- @erlisrivas?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/erlis-rivas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn- @erlis-rivas?style=flat&logo=linkedin"></a>
 <a href="mailto:erlisrivas@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/Email-erlisrivas@gmail.com-blue?style=flat&logo= gmail"></a>
 </p>
 
