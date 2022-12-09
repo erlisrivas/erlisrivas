@@ -29,7 +29,7 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Código de Visual Studio" alt="Visual" width="40" height="40 "/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Ilustrador" alt="Ilustrador" width="40" height="40 "/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>  ;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" **alt="Git" width="40" height="40"/ >
 </div>
 
